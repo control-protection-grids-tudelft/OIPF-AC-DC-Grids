@@ -1,5 +1,7 @@
 # OIPF for Transmission Switching in AC/MTDC Grids
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23808728.svg)](https://doi.org/10.5281/zenodo.23808728)
+
 <table width="100%">
   <tr>
     <td align="left"><img src="IEPG_logo.jpg" alt="Intelligent Electrical Power Grids (IEPG)" height="80"></td>
